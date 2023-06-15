@@ -16,12 +16,12 @@ menuIcon.onclick = () => {
 
 
 // dark-mode
-let darkMode = document.querySelector("#darkMode-icon");
+// let darkMode = document.querySelector("#darkMode-icon");
 
-darkMode.onclick = () => {
-    darkMode.classList.toggle('fa-home');
-    document.body.classList.toggle('dark-mode');
-};
+// darkMode.onclick = () => {
+//     darkMode.classList.toggle('fa-home');
+//     document.body.classList.toggle('dark-mode');
+// };
 
 
 const btns = document.querySelectorAll(".btn-primary");
